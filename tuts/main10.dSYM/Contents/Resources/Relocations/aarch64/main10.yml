@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/macbookair/work/c-stuff/tuts/main10'
+relocations:     []
+...
