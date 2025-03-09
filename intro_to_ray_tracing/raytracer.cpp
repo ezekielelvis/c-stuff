@@ -8,8 +8,8 @@
 
 #if defined __linux__ || defined __APPLE__
 #else
-#define M_PI 3.14159265358979323846
-#define INFINITY 1e8
+// #define M_PI 3.14159265358979323846
+// #define INFINITY 1e8
 #endif
 
 template <typename T>
